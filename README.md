@@ -50,8 +50,14 @@ marks may be deducted, or the submission may be disqualified.”
 
 
 ## vi. Screenshots
-1. Splash screen  
-2. Home screen (before calculation)  
-3. Home screen (after calculation)
+**Splash Screen**  
+![Splash](screenshots/splash.png)
+
+**Home (Before Calculation)**  
+![Before](screenshots/home_before.png)
+
+**Home (After Calculation)**  
+![After](screenshots/home_after.png)
+
 
 
